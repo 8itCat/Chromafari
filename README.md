@@ -20,6 +20,9 @@ Well, to put it simply, extensions on Safari suck and break with new Safari upda
   1) I don't have an Apple Developer Account
   2) Once again, I don't have legal access to republish these extensions
 
+### Is this a virus?
+- NO! If you're worried that my extensions are viruses, the source code of all the extensions is available in their corresponding folders
+
 # Credits
 
 - 8itCat for porting the extensions
