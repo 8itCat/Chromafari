@@ -16,7 +16,7 @@ Well, to put it simply, extensions on Safari suck and break with new Safari upda
 - I can't keep track of whether or not my extensions work on every OS. If you have a relatively modern version of macOS these extensions should work, unless otherwise noted. Please create an [issue](https://github.com/8itCat/Chromafari/issues) if something doesn't work for you
 
 ### Is this legal?
-- Short answer: No. Long answer: I don't own any copywrights or trademarks for any of these extensions so technically this can be seen as illegal. You won't go to jail for using these extensions, though.
+- Short answer: No. Long answer: I don't own any copyrights or trademarks for any of these extensions so technically this can be seen as illegal. You won't go to jail for using these extensions, though.
 
 ### Why not on the Mac App Store?
 - Two reasons: 
