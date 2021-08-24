@@ -9,6 +9,9 @@ Well, to put it simply, extensions on Safari suck and break with new Safari upda
 
 # FAQ
 
+### I don't see an extension I want!
+(DM me on Discord)[https://discord.gg/5AQjAnNKYd] (I am 8itCat) or (Reddit)[https://www.reddit.com/user/QueenVengeance] if you have a request that I haven't posted. You can also [make an issue](https://github.com/8itCat/Chromafari/issues) with the "request" tag.
+
 ### 'X' Extension isn't working on 'Y' version of macOS!
 - I can't keep track of whether or not my extensions work on every OS. If you have a relatively modern version of macOS these extensions should work, unless otherwise noted. Please create an [issue](https://github.com/8itCat/Chromafari/issues) if something doesn't work for you
 
